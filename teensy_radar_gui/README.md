@@ -1,5 +1,3 @@
-Host software, firmware and test code for the teensy based LLRISE radar.
-
 ## Disclaimer
 
 DISTRIBUTION STATEMENT A. Approved for public release. Distribution unlimited.
