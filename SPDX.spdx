@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+PackageName:  LLRISE_Radar
+PackageHomePage: https://github.com/mit-ll/LLRISE_Radar/
+PackageOriginator: MIT Lincoln Laboratory
+PackageCopyrightText: 2022 Massachusetts Institute of Technology
+PackageLicenseDeclared: MIT
